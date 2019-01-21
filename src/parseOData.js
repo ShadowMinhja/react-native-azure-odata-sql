@@ -2,7 +2,7 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // ----------------------------------------------------------------------------
 
-var util = require('util'),
+var util = require('react-native-util'),
     types = require('./utilities/types'),
     strings = require('./utilities/strings'),
     expressions = require('./expressions');

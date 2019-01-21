@@ -3,7 +3,7 @@
 // ----------------------------------------------------------------------------
 
 var types = require('./utilities/types'),
-    util = require('util'),
+    util = require('react-native-util'),
     parseOData = require('./parseOData'),
     ExpressionVisitor = require('./ExpressionVisitor'),
     convertTypes = require('./convertTypes'),
