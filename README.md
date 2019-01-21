@@ -15,7 +15,7 @@ The query object is in the format produced by
 
 The library currently exports a single function:
 
-    require('azure-odata-sql').format(query, tableConfig)
+    require('react-native-azure-odata-sql').format(query, tableConfig)
 
 The query parameter is an object with any of the following properties:
 
