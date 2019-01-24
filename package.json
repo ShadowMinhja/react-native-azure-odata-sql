@@ -1,6 +1,6 @@
 {
   "name": "react-native-azure-odata-sql",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Convert OData queries into SQL statements",
   "main": "src/index.js",
   "author": "Minh Nguyen",
@@ -11,11 +11,11 @@
     "lint": "jshint src"
   },
   "dependencies": {
+    "react-native-util": "1.0.2"
   },
   "devDependencies": {
     "chai": "^3.0.0",
     "jshint": "^2.9.1",
-    "mocha": "^2.2.5",
-    "react-native-util": "1.0.2"
+    "mocha": "^2.2.5"
   }
 }
